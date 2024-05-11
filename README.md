@@ -1,10 +1,10 @@
-# Imersao Alura
+# Imersão Google-Alura
 
 ## Objetivo
 
 Esse código tem como objetivo ler um arquivo pdf e responder perguntas sobre ele.
 
-**Uso prático**
+## Uso prático
 
 Nesse exemplo, simulei dois cenário possiveis em que a AI ajuda no entendimento dos leiautes e no possível preenchimento.
 
